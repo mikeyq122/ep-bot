@@ -1,0 +1,8 @@
+To use this script you will need,
+1) both python files in the same directory
+2) a folder called defs in the same directory
+3) geckodriver.exe from https://github.com/mozilla/geckodriver/releases
+
+OPTIONAL
+- make the login function
+- getting alternative drivers (chrome, edge, etc)
