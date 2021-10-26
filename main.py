@@ -5,7 +5,7 @@ import time
 from pynput.keyboard import Controller, Key
 import suspend
 from pathlib import Path
-#only used if auto login is enabled on line 112: 'login(b)'
+#only used if auto login is enabled on line 113: 'login(b)'
 #if you are using auto-login you will need to make it (defferent per school)
 email='ENTER HERE'
 password='ENTER HERE'
@@ -34,6 +34,7 @@ def make_browser():
     return browser
 
 def login(browser):
+    a=0 #placeholder
     # make login
 
 
